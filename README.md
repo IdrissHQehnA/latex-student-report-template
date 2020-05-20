@@ -9,6 +9,7 @@ stars](https://img.shields.io/github/stars/u-tunis-el-manar/latex-student-report
 forks](https://img.shields.io/github/forks/u-tunis-el-manar/latex-student-report-template)](https://github.com/u-tunis-el-manar/latex-student-report-template/network)
 ![Build and
 release](https://github.com/u-tunis-el-manar/latex-student-report-template/workflows/Build%20and%20release/badge.svg)
+[![HitCount](http://hits.dwyl.com/u-tunis-el-manar/latex-student-report-template.svg)](http://hits.dwyl.com/u-tunis-el-manar/latex-student-report-template)
 
 A [LaTeX](https://www.latex-project.org) template for your reports.
 
